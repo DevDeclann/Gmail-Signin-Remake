@@ -1,5 +1,5 @@
 # Gmail-Signin-Remake
-This was a challenge by me of course, this itself should not be used for any malicious intent!!!
+This was a challenge by me of course, this itself should not be used for any malicious intent!!! I do not condone any givin malicious activity used by this markup document. Cheers..
 
 
 # Image Of Remake
