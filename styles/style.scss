@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.gmail_container{
+    background: #f8f8f8;
+    width: 350px;
+    height: 430px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 8px;
+    border: 1px solid #dadce0;
+    background: #fff;
+    padding: 60px;
+}
+
+.gmail_container h3, p{
+    text-align: center;
+    margin-bottom: 4px;
+}
+.gmail_container h3{
+    font-weight: normal;
+    font-size: 25px;
+    margin-bottom: 14px;
+}
+
+.gmail_container .google_logo img{
+    width: 70px;
+}
+
+.gmail_container .google_logo{
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.gmail_container .field_container input{
+    padding: 14px;
+    width: 95%;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    border: 1px solid #c7c7c7;
+    font-size: 15px;
+}
+
+.gmail_container .field_container .forgot_email{
+    color: #0048ff;
+}
+
+.gmail_footer{
+    width: 420px;
+}
+
+.gmail_container .field_container ul{
+    margin-top: 40px;
+}
+
+.gmail_container .field_container ul li{
+    color: #7b7777;
+    font-family: Arial, sans-serif;
+}
+
+.gmail_container .field_container ul li a{
+    color: #0048ff;
+}
+.gmail_container .field_container .gmail_footer{
+    margin-top: 50px;
+}
+
+.gmail_container .field_container .gmail_footer .create_account{
+    color: #0048ff
+}
+
+.gmail_container .field_container .gmail_footer .next_button{
+    background: #4082e6;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 100px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 180px;
+}
